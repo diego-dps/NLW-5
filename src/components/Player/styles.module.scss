@@ -23,6 +23,7 @@
     }
 
     footer {
+        align-self: stretch;
         &.empty {
             opacity: 0.5;
         }
